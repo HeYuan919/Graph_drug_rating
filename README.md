@@ -1,4 +1,5 @@
 # Graph_drug_rating
+The report for this project is in Project_Final_Report.pdf.
 
 The GNN_main.ipynb is to reproduce the main results. 
 
